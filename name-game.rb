@@ -14,5 +14,5 @@ user_input = user_input.chars
 if user_input[0] == "S"
   puts original_input.upcase
 else
-  puts original_input
+  puts "Hi, " + original_input
 end
